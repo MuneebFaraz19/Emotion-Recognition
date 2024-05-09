@@ -7,7 +7,7 @@ pip install numpy tensorflow keras pandas scikit-learn opencv-python matplotlib
 1) First install the modules using pip
 2) Download the dataset from the given link and place it in the same directory as modelTrain.py -
 
-Dataset: https://drive.google.com/drive/folders/15LNhKTUOV-EbsQ41Pl7GTO57g-G1Oap4?usp=sharing
+Dataset: https://drive.google.com/drive/folders/17_VjQhEDSd_WeeNoOcxbSEUWwdfI0pEy?usp=sharing
 
 Note: There should be a folder named dataset in which there will 2 csv files (fer2013.csv and fer2013new.csv)
 
